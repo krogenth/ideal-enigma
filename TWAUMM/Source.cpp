@@ -1,3 +1,5 @@
+// there was no start of file documentation for this
+// not having start of file documentation is cringe
 #define _SILENCE_EXPERIMENTAL_FILESYSTEM_DEPRECATION_WARNING
 
 #include <fstream>
